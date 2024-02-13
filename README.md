@@ -12,7 +12,7 @@ The Postgres Chatbot is an advanced AI-powered interface designed to interact wi
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- Python 3.8 or newer
+- Python 3.10 or newer
 - PostgreSQL server (accessible via the provided `DATABASE_URL`)
 - An OpenAI API key for accessing large language models
 
